@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-Esse projeto foi criado como uma avaliação técnica da Secretaria Municipal de Gestão da Bahia e o projeto consiste em um CRUD (create, read, update and delete) simples e prático, utilizando interfaces (front-end) em Reactjs, funções com hooks e autenticação com o Laravel, utilizado via API.
+Esse projeto foi criado como uma avaliação técnica e consiste em um CRUD (create, read, update and delete) simples e prático, utilizando interfaces (front-end) em Reactjs, funções com hooks e autenticação com o Laravel, utilizado via API.
 
 - Front-end: Reactjs
 - Back-end: Laravel
@@ -21,8 +21,10 @@ Primeiramente, o Xampp deve estar instalado na máquina e com o servidor Apache 
 No terminal, você deve acessar a pasta do projeto e rodar o comando "php artisan serve", que inicia um servidor para a aplicação ser acessada via localhost.
 ![image](https://user-images.githubusercontent.com/78673503/156687753-b9bf0041-537e-4214-86a5-2441d232d383.png)
 
-Para acessar a página incial do sistema, basta acessar o seu link local/user, como por exemplo:
-![image](https://user-images.githubusercontent.com/78673503/156687996-744feab8-b471-482c-a5b9-ce48703769b7.png)
+Para acessar a página incial do sistema, basta acessar o seu link local/empresa/index, como por exemplo:
+![image](https://user-images.githubusercontent.com/78673503/159143194-8b84576c-67d0-455c-a003-5b1ad8d515e5.png)
+
+
 
 
 
