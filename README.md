@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/78673503/156687595-f1aa7491-ac57-46df-9870-581811faaed9.png)
-
 ## Sobre o projeto
 
 Esse projeto foi criado como uma avaliação técnica e consiste em um CRUD (create, read, update and delete) simples e prático, utilizando interfaces (front-end) em Reactjs, funções com hooks e autenticação com o Laravel, utilizado via API.
